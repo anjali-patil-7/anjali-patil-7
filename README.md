@@ -5,17 +5,18 @@
 ---
 
 ### 🔥 About Me
-I am a passionate **MERN Full-Stack Developer** with strong expertise in both frontend and backend development.  
-My background in **Electronics & Communication Engineering (ECE)** enhances my analytical problem-solving and engineering approach while developing scalable digital products.
+I am a passionate **MERN Full-Stack Developer** focused on building scalable, modern and user-centric web applications.  
+With a background in **Electronics & Communication Engineering (ECE)**, I approach software with strong analytical and engineering principles.
 
-I enjoy building **real-world web apps** with clean architecture, optimized performance and user-centric design — turning ideas into **impactful products with code**.
+I enjoy turning ideas into real-world projects using clean architecture, performance-oriented coding and modern UI/UX.
 
 ---
 
 ### 🚀 Tech Stack & Skills
+
 #### 👨‍💻 Core Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,redux,next,figma,postman,html,css" />
 </p>
 
 #### ⚙ Backend / DevOps / Cloud
@@ -23,27 +24,10 @@ I enjoy building **real-world web apps** with clean architecture, optimized perf
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
 </p>
 
-#### 🔍 CS & Add-ons
+#### 🔍 Additional
 - Data Structures & Algorithms (DSA)
 - Kafka Message Streaming
 - AI Agents & automation workflows
-
----
-
-### ✨ I Like (Personal Interest)
-- 💡 Solving real-world problems through code  
-- 🎨 Designing sleek and minimal web interfaces  
-- 🔍 Exploring AI + Cloud + System Design  
-- 🔗 Learning by building projects — not just tutorials  
-
----
-
-### 🏆 Projects Badges
-| Category Badge | Description |
-|---------------|-------------|
-| 🔹 **MERN Project** | Full-stack applications built with MongoDB, Express, React & Node |
-| 🔹 **Real-Time Websocket Project** | Fast, live applications using socket/websocket |
-| 🔹 **TypeScript Backend Project** | Strongly-typed backend built using TypeScript + Node |
 
 ---
 
@@ -57,10 +41,22 @@ I enjoy building **real-world web apps** with clean architecture, optimized perf
 
 ---
 
+### ✨ I Like
+- 💡 Solving real-world problems through code  
+- 🎨 Crafting sleek & performance-focused web interfaces  
+- 🔍 Exploring AI + Cloud + Software Architecture  
+- 📈 Continuous learning through projects  
+
+---
+
 ### 📬 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/anjali-a-patil" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
-  <a href="mailto:anjalipatil@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
+  <a href="https://www.linkedin.com/in/anjali-a-patil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
+  </a>
+  <a href="mailto:anjalipatil3993@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="38"/>
+  </a>
 </p>
 
 ---
@@ -73,23 +69,4 @@ I enjoy building **real-world web apps** with clean architecture, optimized perf
 
 ---
 
-### 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-patil-7&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🎯 Profile Views
-<img src="https://komarev.com/ghpvc/?username=anjali-patil-7&label=Profile%20Views&color=blueviolet&style=flat" />
-
----
-
-💙 _Thank you for visiting my profile — feel free to reach out for collaboration or project discussions!_
+💙 _Thanks for visiting my profile — I'm always open to collaboration & exciting opportunities!_
