@@ -1,14 +1,14 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00C2FF;">Anjali Patil</span></h1>
-<h3 align="center">💻 MERN Full-Stack Web Developer | Building Scalable & Modern Web Applications</h3>
+<h3 align="center">💻 MERN Full-Stack Developer | Building Scalable & Modern Web Applications</h3>
 
 ---
 
 ### 🔥 About Me
-I am a passionate **MERN Full-Stack Developer** with strong skills in building scalable back-ends and sleek user interfaces.  
-With a background in **Electronics & Communication Engineering (ECE)**, I combine analytical problem-solving with clean engineering principles to develop high-performance web solutions.
+I am a passionate **MERN Full-Stack Developer** with strong expertise in both frontend and backend development.  
+My background in **Electronics & Communication Engineering (ECE)** enhances my analytical problem-solving and engineering approach while developing scalable digital products.
 
-I love transforming ideas into **real-world products** using modern technologies and best coding practices.
+I enjoy building **real-world web apps** with clean architecture, optimized performance and user-centric design — turning ideas into **impactful products with code**.
 
 ---
 
@@ -25,15 +25,35 @@ I love transforming ideas into **real-world products** using modern technologies
 
 #### 🔍 CS & Add-ons
 - Data Structures & Algorithms (DSA)
-- Real-time systems & Kafka message streaming
+- Kafka Message Streaming
 - AI Agents & automation workflows
 
 ---
 
-### ✨ What I’m Currently Doing
-- 🚧 Building real-world MERN projects
-- 📚 Improving DSA & system design
-- 🔍 Exploring AI + Cloud + Microservices
+### ✨ I Like (Personal Interest)
+- 💡 Solving real-world problems through code  
+- 🎨 Designing sleek and minimal web interfaces  
+- 🔍 Exploring AI + Cloud + System Design  
+- 🔗 Learning by building projects — not just tutorials  
+
+---
+
+### 🏆 Projects Badges
+| Category Badge | Description |
+|---------------|-------------|
+| 🔹 **MERN Project** | Full-stack applications built with MongoDB, Express, React & Node |
+| 🔹 **Real-Time Websocket Project** | Fast, live applications using socket/websocket |
+| 🔹 **TypeScript Backend Project** | Strongly-typed backend built using TypeScript + Node |
+
+---
+
+### 📌 Featured Projects
+| Project | Tech Stack | Repository |
+|--------|------------|------------|
+| 👗 **ZeleenaFashions** | MERN Stack (MongoDB, Express, React, Node) | 🔗 https://github.com/anjali-patil-7/ZeleenaFashions |
+| 💬 **Chatbot-Socket** | Node.js, Express, WebSocket | 🔗 https://github.com/anjali-patil-7/chatbot-socket |
+| 🍽 **Zomato Clone** | HTML, CSS | 🔗 https://github.com/anjali-patil-7/Zomato |
+| 🎟 **Movie Ticket Booking (TS)** | TypeScript, Node.js | 🔗 https://github.com/anjali-patil-7/movie-ticket-booking-ts |
 
 ---
 
@@ -42,18 +62,6 @@ I love transforming ideas into **real-world products** using modern technologies
   <a href="https://www.linkedin.com/in/anjali-a-patil" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
   <a href="mailto:anjalipatil@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
 </p>
-
----
-
-### 📌 Featured Projects
-| Project | Tech | Link |
-|--------|-------|------|
-| 💬 Chatbot Socket App | HTML, JS | 🔗 Live / Repo |
-| 📺 Netflix Clone | CSS | 🔗 Live / Repo |
-| 🔐 User Login Page | HTML | 🔗 Live / Repo |
-| 🍽 Zomato Clone | HTML | 🔗 Live / Repo |
-
-(*You can update the links later — table already set*)
 
 ---
 
@@ -79,14 +87,9 @@ I love transforming ideas into **real-world products** using modern technologies
 
 ---
 
-### ⭐ Fun Note
-> I believe good code is not just working code — it should be **clean, scalable, and future-proof**.
-
----
-
 ### 🎯 Profile Views
 <img src="https://komarev.com/ghpvc/?username=anjali-patil-7&label=Profile%20Views&color=blueviolet&style=flat" />
 
 ---
 
-💙 _Thanks for visiting my profile — Feel free to reach out for collaboration!_
+💙 _Thank you for visiting my profile — feel free to reach out for collaboration or project discussions!_
